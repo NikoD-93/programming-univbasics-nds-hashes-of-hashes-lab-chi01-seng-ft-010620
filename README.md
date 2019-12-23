@@ -1,3 +1,4 @@
+
 # Hashes of Hashes Lab
 
 ## Learning Goals
